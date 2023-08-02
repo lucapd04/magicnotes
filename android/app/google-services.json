@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "438147632913",
+    "project_id": "magicnotes-flutter-project",
+    "storage_bucket": "magicnotes-flutter-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438147632913:android:8fa8302ddee2b103f1c6b0",
+        "android_client_info": {
+          "package_name": "ca.codeluca.magicnotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438147632913-99ivvkq1g388m6ni5sd2nb0nk8so7ikg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxDDVW-VSpVn33yLz7U6D9KfXJ9eDpcHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438147632913-99ivvkq1g388m6ni5sd2nb0nk8so7ikg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "438147632913-q804490ek280b91uovpv2c3h14455sc1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ca.codeluca.magicnotes"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
